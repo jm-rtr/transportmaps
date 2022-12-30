@@ -33,6 +33,11 @@ Coming soon
 #### Bremen
 * Regional rail (Regio-S-Bahn) network (NordWestBahn)
 
+##### Bremen (city)
+* Urban network (BSAG)
+* Night services network (BSAG)
+* Map of tram and bus services (BSAG)
+
 #### Hamburg
 * Suburban rail (S-Bahn, AKN, U-Bahn, regional trains) network (HVV)
 * Metropolitan rail network (HVV)
