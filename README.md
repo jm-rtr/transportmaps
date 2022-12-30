@@ -21,6 +21,19 @@ Coming soon
 #### Baden-Württemberg
 * Regional rail network (bwegt)
 
+##### Stuttgart
+* Urban rail (S-Bahn, Stadtbahn, regional trains) network (VVS)
+* S-Bahn network (VVS)
+* Stadtbahn network (SSB)
+* Bus network (SSB)
+* Regional express bus network (VVS)
+* Night services network (SSB)
+* Accessibility network (S-Bahn, Stadtbahn, regional trains) (VVS)
+* S-Bahn network with toilets (VVS)
+* Urban rail (S-Bahn, Stadtbahn, regional trains) network with park-and-ride and low-emission zone (VVS)
+* Schematic map of services to airport and exhibition grounds (VVS)
+* Fare zones (VVS)
+
 #### Bavaria
 * Regional rail network (Bahnland Bayern)
 
@@ -36,7 +49,7 @@ Coming soon
 * Urban network (S-Bahn, U-Bahn, regional trains) with park-and-ride (MVV)
 
 #### Berlin
-* Suburban rail (S-Bahn, U-Bahn, regional trains) network (BVG)
+* Urban rail (S-Bahn, U-Bahn, regional trains) network (BVG)
 
 #### Brandenburg
 * Regional rail network Brandenburg/Berlin (VBB)
@@ -50,7 +63,7 @@ Coming soon
 * Map of tram and bus services (BSAG)
 
 #### Hamburg
-* Suburban rail (S-Bahn, AKN, U-Bahn, regional trains) network (HVV)
+* Urban rail (S-Bahn, AKN, U-Bahn, regional trains) network (HVV)
 * Metropolitan rail network (HVV)
 * Metrobus network (HVV)
 * Metrobus network only with important/connection stops (HVV)
