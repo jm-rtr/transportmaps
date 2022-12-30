@@ -24,6 +24,17 @@ Coming soon
 #### Bavaria
 * Regional rail network (Bahnland Bayern)
 
+##### Munich
+* Urban network (MVV)
+* Regional network (MVV)
+* Tram network (MVG)
+* Night services network (MVV)
+* Map of regional trains, S-Bahn, U-Bahn, tram and bus services in the city area (MVV)
+* Map of regional trains, S-Bahn, U-Bahn and bus services in the greater Munich region (MVV)
+* Accessibility network (S-Bahn, U-Bahn, regional trains) (MVV)
+* Accessibility network (trams and express busses) (MVV)
+* Urban network (S-Bahn, U-Bahn, regional trains) with park-and-ride (MVV)
+
 #### Berlin
 * Suburban rail (S-Bahn, U-Bahn, regional trains) network (BVG)
 
