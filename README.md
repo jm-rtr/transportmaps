@@ -52,6 +52,13 @@ Coming soon
 #### Rhineland-Palatinate
 * Regional rail network (Rolph)
 
+##### Düsseldorf
+* Suburban network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
+* Suburban rail (S-Bahn, Stadtbahn, tram) (Rheinbahn)
+* Suburban bus network (Rheinbahn)
+* Night services network (Rheinbahn)
+* Accessibility network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
+
 #### Saarland
 * Regional rail network Saarland/Rhineland-Palatinate (Rolph)
 * Night bus network (saarVV)
