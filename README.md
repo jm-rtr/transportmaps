@@ -43,6 +43,13 @@ Coming soon
 #### Lower Saxony
 * Regional rail network (DB)
 
+##### Hanover
+* Urban rail (Stadtbahn) network (GVH)
+* Regional rail (regional trains, S-Bahn) network (GVH)
+* Urban bus network (GVH)
+* Map of regional trains, S-Bahn, Stadtbahn and bus services (GVH)
+* Map of regional trains, S-Bahn, Stadtbahn and regional bus services in the greater Hanover region (GVH)
+
 #### Mecklenburg-Vorpommern
 * Regional rail network (DB)
 
