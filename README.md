@@ -41,6 +41,17 @@ Coming soon
 #### Hamburg
 * Suburban rail (S-Bahn, AKN, U-Bahn, regional trains) network (HVV)
 * Metropolitan rail network (HVV)
+* Metrobus network (HVV)
+* Metrobus network only with important/connection stops (HVV)
+* Express bus network (HVV)
+* Geographical map of Metrobus services (HVV)
+* Geographical map of express bus services (HVV)
+* Map of ferry lines (HVV)
+* Map of night bus services Monday-Friday (HVV)
+* Map of weekend-only night services (HVV)
+* Fare zones (HVV)
+* Fare zones for students (HVV)
+* Geographical fare zones map (HVV)
 
 #### Hesse
 * Regional rail network (State of Hesse)
@@ -74,6 +85,7 @@ Coming soon
 #### Saarland
 * Regional rail network Saarland/Rhineland-Palatinate (Rolph)
 * Night bus network (saarVV)
+* Fare zones (saarVV)
 * Merzig-Wadern bus network (ARGE Nahverkehrsgesellschaft Merzig-Wadern)
 * Neunkirchen bus network (NVG)
 * Saarlouis bus network (KVS)
@@ -94,6 +106,7 @@ Coming soon
 
 #### Schleswig-Holstein
 * Regional rail network (NAH.SH)
+* Map of Pinneberg express bus services (HVV)
 
 #### Thuringia
 * Regional rail network (Free state of Thuringia)
