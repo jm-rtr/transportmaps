@@ -18,6 +18,7 @@ Coming soon
 ### Germany
 * Main line rail network (DB)
 * VRN (Mannheim, Ludwigshafen, Heidelberg, Würzburg) rail network (VRN)
+* MDV (Leipzig, Halle) fare zones (MDV)
 * VRN fare zones (Mannheim, Ludwigshafen, Heidelberg, Würzburg) (VRN)
 
 #### Baden-Württemberg
@@ -156,6 +157,11 @@ Coming soon
 #### Saxony
 * Regional rail network (MDV)
 
+##### Leipzig
+* Urban network (Leipziger Verkehrsbetriebe)
+* Night services network (Leipziger Verkehrsbetriebe)
+* Schematic map of services to Sportforum event locations with park-and-ride (Leipziger Verkehrsbetriebe)
+
 #### Saxony-Anhalt
 * Regional rail network (Mein Takt)
 
@@ -165,9 +171,13 @@ Coming soon
 
 #### Thuringia
 * Regional rail network (Free state of Thuringia)
+* VMT (Erfurt, Jena) fare zones (VMT)
 
 ##### Erfurt
 * Urban network (EVAG)
+* Tram network (EVAG)
+* Accessibility network (tram) (EVAG)
+* Accessibility network (bus) (EVAG)
 
 ### Luxembourg
 * National bus network (RGTR)
