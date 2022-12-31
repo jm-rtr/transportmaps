@@ -88,6 +88,21 @@ Coming soon
 
 #### Hesse
 * Regional rail network (State of Hesse)
+* Hanau urban network (HSB)
+
+##### Darmstadt
+* Urban network (Dadina)
+* Tram network (RMV)
+* Map of regional trains, S-Bahn, tram and bus services (RMV)
+
+##### Frankfurt
+* Rapid transit (S-Bahn, U-Bahn, regional trains) network (RMV)
+* Urban network (S-Bahn, U-Bahn, tram, Metrobus, express bus) (RMV)
+* Regional rail (S-Bahn, regional trains) network (RMV)
+* Express bus network (RMV)
+* Night services network (RMV)
+* Airport network (RMV)
+* Map of regional trains, S-Bahn, U-Bahn, tram and bus services (RMV)
 
 #### Lower Saxony
 * Regional rail network (DB)
@@ -150,6 +165,9 @@ Coming soon
 
 #### Thuringia
 * Regional rail network (Free state of Thuringia)
+
+##### Erfurt
+* Urban network (EVAG)
 
 ### Luxembourg
 * National bus network (RGTR)
