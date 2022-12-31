@@ -17,9 +17,18 @@ Coming soon
 
 ### Germany
 * Main line rail network (DB)
+* VRN (Mannheim, Ludwigshafen, Heidelberg, Würzburg) rail network (VRN)
+* VRN fare zones (Mannheim, Ludwigshafen, Heidelberg, Würzburg) (VRN)
 
 #### Baden-Württemberg
 * Regional rail network (bwegt)
+
+##### Heidelberg
+* Urban network (RNV)
+* Night services network (RNV)
+
+##### Mannheim
+* Urban network (RNV)
 
 ##### Stuttgart
 * Urban rail (S-Bahn, Stadtbahn, regional trains) network (VVS)
@@ -98,6 +107,13 @@ Coming soon
 
 #### Rhineland-Palatinate
 * Regional rail network (Rolph)
+* Landau urban network (VRN)
+* Neustadt urban network (VRN)
+* Neustadt regional network (VRN)
+* Südliche Weinstraße network (VRN)
+
+##### Ludwigshafen
+* Night services network (RNV)
 
 ##### Düsseldorf
 * Suburban network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
