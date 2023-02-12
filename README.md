@@ -184,3 +184,15 @@ Coming soon
 
 #### Lëtzebuerg
 * Urban bus and tram network (VdL)
+
+### Netherlands
+
+#### North Holland
+
+##### Amsterdam
+* Urban rail network (GVB)
+* Metro network (GVB)
+* North Sea Canal ferries network (GVB)
+* Geographical map of urban transport services (GVB)
+* Geographical map of IJ ferry services (GVB)
+* Geographical map of night services (GVB)
