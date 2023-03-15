@@ -15,6 +15,35 @@ Coming soon
 
 ## Currently added maps
 
+### Belgium
+* Map of national rail services (NMBS/SNCB)
+
+#### Brussels
+* Urban network (STIB/MIVB)
+* Urban rail network (STIB/MIVB)
+* Night services network (STIB/MIVB)
+
+#### Flanders
+
+##### Antwerp
+* Urban network (De Lijn)
+* Tram network (De Lijn)
+* Map of urban services (De Lijn)
+* Map of services in the Antwerp region (De Lijn)
+* Map of services in the Antwerp port area (De Lijn)
+
+##### Bruges
+* Map of urban services (De Lijn)
+* Map of services in the Bruges region (De Lijn)
+
+##### Ghent
+* Urban network (De Lijn)
+* Tram network (De Lijn)
+* Night services network (De Lijn)
+* Map of urban services (De Lijn)
+* Map of services in the Ghent region (De Lijn)
+* Map of night services (De Lijn)
+
 ### Germany
 * Main line rail network (DB)
 * VRN (Mannheim, Ludwigshafen, Heidelberg, Würzburg) rail network (VRN)
