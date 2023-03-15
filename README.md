@@ -16,7 +16,7 @@ Coming soon
 ## Currently added maps
 
 ### Belgium
-* Map of national rail services (NMBS/SNCB)
+* Geographical map of national rail services (NMBS/SNCB)
 
 #### Brussels
 * Urban network (STIB/MIVB)
@@ -28,21 +28,21 @@ Coming soon
 ##### Antwerp
 * Urban network (De Lijn)
 * Tram network (De Lijn)
-* Map of urban services (De Lijn)
-* Map of services in the Antwerp region (De Lijn)
-* Map of services in the Antwerp port area (De Lijn)
+* Geographical map of urban services (De Lijn)
+* Geographical map of services in the Antwerp region (De Lijn)
+* Geographical map of services in the Antwerp port area (De Lijn)
 
 ##### Bruges
-* Map of urban services (De Lijn)
-* Map of services in the Bruges region (De Lijn)
+* Geographical map of urban services (De Lijn)
+* Geographical map of services in the Bruges region (De Lijn)
 
 ##### Ghent
 * Urban network (De Lijn)
 * Tram network (De Lijn)
 * Night services network (De Lijn)
-* Map of urban services (De Lijn)
-* Map of services in the Ghent region (De Lijn)
-* Map of night services (De Lijn)
+* Geographical map of urban transport services (De Lijn)
+* Geographical map of transport services in the Ghent region (De Lijn)
+* Geographical map of night services (De Lijn)
 
 ### Germany
 * Main line rail network (DB)
@@ -89,6 +89,9 @@ Coming soon
 
 #### Berlin
 * Urban rail (S-Bahn, U-Bahn, regional trains) network (BVG)
+* Tram network (BVG)
+* Bus and ferry network (BVG)
+* Geographical map of night services (BVG)
 
 #### Brandenburg
 * Regional rail network Brandenburg/Berlin (VBB)
@@ -225,3 +228,17 @@ Coming soon
 * Geographical map of urban transport services (GVB)
 * Geographical map of IJ ferry services (GVB)
 * Geographical map of night services (GVB)
+
+#### South Holland
+
+##### Rotterdam
+* Urban network (RET)
+* Metro network (RET)
+* Tram network (RET)
+* Night services network (RET)
+* Geographical map of transport services in the Rotterdam region (RET)
+
+##### The Hague
+* Tram network (HTM)
+* Bus network (HTM)
+* Geographical map of urban transport services (HTM)
