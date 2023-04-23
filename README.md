@@ -44,6 +44,19 @@ Coming soon
 * Geographical map of transport services in the Ghent region (De Lijn)
 * Geographical map of night services (De Lijn)
 
+### France
+
+#### Paris Region
+* Regional network (Île-de-France Mobilités)
+* Night services network (Île-de-France Mobilités)
+
+##### Paris
+* Urban rail (Metro, RER, trams) network (RATP)
+* Bus network (RATP)
+* Map of regional train, RER, Metro and tram services in the city area (RATP)
+* Map of tram and bus services in the city area (RATP)
+* Schematic map of services to airports (ADP)
+
 ### Germany
 * Main line rail network (DB)
 * VRN (Mannheim, Ludwigshafen, Heidelberg, Würzburg) rail network (VRN)
