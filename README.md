@@ -19,7 +19,7 @@ Coming soon
 * Geographical map of national rail services (NMBS/SNCB)
 
 #### Brussels
-* Urban network (STIB/MIVB)
+* Urban network (STI2023_Bahnen_in_KoelnB/MIVB)
 * Urban rail network (STIB/MIVB)
 * Night services network (STIB/MIVB)
 
@@ -184,6 +184,31 @@ Coming soon
 
 #### North Rhine-Westphalia
 * Regional rail network (mobil.nrw)
+* Urban rail (Stadtbahn, S-Bahn, regional trains) network for the Rhine-Sieg area around cologne and Bonn (VRS)
+
+##### Cologne
+* Urban rail (Stadtbahn, S-Bahn, regional trains) network (KVB)
+* Bus network (KVB)
+* Accessibility network (Stadtbahn, S-Bahn, regional trains) (KVB)
+* Touristic network (Stadtbahn, S-Bahn, regional trains) (KVB)
+
+##### Dortmund
+* Urban network (Stadtbahn, H-Bahn, S-Bahn, regional trains, bus) (DSW21)
+* Urban rail network (DSW21)
+* Night services network (DSW21)
+* Geographical map of regional trains, S-Bahn, Stadtbahn, bus and night bus services (DSW21)
+* Geographical fare zones map (DSW21)
+
+##### Düsseldorf
+* Suburban network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
+* Suburban rail (S-Bahn, Stadtbahn, tram) (Rheinbahn)
+* Suburban bus network (Rheinbahn)
+* Night services network (Rheinbahn)
+* Accessibility network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
+
+##### Münster
+* Geographical map of bus and ferry services (Stadtwerke Münster)
+* Geographical map of night bus services (Stadtwerke Münster)
 
 #### Rhineland-Palatinate
 * Regional rail network (Rolph)
@@ -194,13 +219,6 @@ Coming soon
 
 ##### Ludwigshafen
 * Night services network (RNV)
-
-##### Düsseldorf
-* Suburban network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
-* Suburban rail (S-Bahn, Stadtbahn, tram) (Rheinbahn)
-* Suburban bus network (Rheinbahn)
-* Night services network (Rheinbahn)
-* Accessibility network (S-Bahn, Stadtbahn, tram, bus, regional trains) (Rheinbahn)
 
 #### Saarland
 * Regional rail network Saarland/Rhineland-Palatinate (Rolph)
