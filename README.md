@@ -108,6 +108,12 @@ Coming soon
 #### Bavaria
 * Regional rail network (Bahnland Bayern)
 
+##### Augsburg
+* Urban network (SWA)
+* Night services networtk (SWA)
+* Geographical map of tram, city and regional bus and call-share-taxi services (SWA)
+* Fare zones (AVV Augsburg)
+
 ##### Munich
 * Urban network (MVV)
 * Regional network (MVV)
@@ -118,6 +124,14 @@ Coming soon
 * Accessibility network (S-Bahn, U-Bahn, regional trains) (MVV)
 * Accessibility network (trams and express busses) (MVV)
 * Urban network (S-Bahn, U-Bahn, regional trains) with park-and-ride (MVV)
+
+##### Nuremberg
+* Urban network (VGN)
+* Urban rail (regional trains, S-Bahn, U-Bahn, tram) network (VGN)
+* U-Bahn network (VAG)
+* Night bus network (VAG)
+* Geographical map of regional trains, S-Bahn, U-Bahn, tram and bus services (VGN)
+* Geographical map of night bus services (VAG)
 
 #### Berlin
 * Urban rail (S-Bahn, U-Bahn, regional trains) network (BVG)
@@ -238,6 +252,14 @@ Coming soon
 
 #### Saxony
 * Regional rail network (MDV)
+
+##### Dresden
+* Urban network (DVB)
+* Urban network in the city area (DVB)
+* Night services network (DVB)
+* Geographical map of tram, bus and ferry services (DVB)
+* Accessibility network (DVB)
+* Index of accessible stops (DVB)
 
 ##### Leipzig
 * Urban network (Leipziger Verkehrsbetriebe)
